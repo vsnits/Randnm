@@ -21,24 +21,4 @@ let set = `qwertyuiopasdfghjklzxcvbnm1234567890`
        var surname = surnames[Math.floor(Math.random()*(surnames.length-1))]
        return { name: name, surname: surname }
       }
-  
  
-/* set = "qwertyuiopasdfghjklzxcvbnm1234567890"
- def randcode(len):
-    res = ""
-    for i in len:
-        # res = res + set[Math.floor(Math.random()*(set.length-1))]
-    print("code: ", res)
- def randate(minage, curyear):
-    # year = minage +  Math.floor(Math.random()*minage)
-    # month = month = 1+ Math.floor(Math.random()*11)
-       day = 0
-    if month == 2:
-        # day = day = 1 + Math.floor(Math.random()*27)
-    elif month % 2 == 1:
-        # day = 1+Math.floor(Math.random()*30)
-    else:
-       # day = 1+Math.floor(Math.random()*29)
-     print(day, ".", month, ".", year)
-   def randnm():
-       */
