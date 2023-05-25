@@ -5,7 +5,7 @@ Take random (real) name and born date of birth
 Download repo and unzip folder
 ## Usage
 Open terminal > 
-Switch to the unpucked folder > 
+Switch to the unzipped folder > 
 Call 
 ```shell
 $ python randnm.py
@@ -22,10 +22,11 @@ For standart learning (8k characters) or
 ```shell
 $ python balance.py deep
 ```
-For learning on surnames dataset (output 30k)
-Learning from bigger sets possible modifying the code
+For learning on surnames dataset (output 30k) <br>
+Learning from bigger sets is possible by modifying the code
 ## Web version
-Weaker version avaible as a [website]()
+Weaker version available as a [website]()
 
-## Licence
+## License
 GNU (free use)
+
