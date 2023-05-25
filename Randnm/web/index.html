@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+     <head> 
+           <title>Randnm.js</title>
+      </head>
+      <body>
+          <script type="text/javascript" src="names.js"></script>
+          <script type="text/javascript" src="surnames.js"></script>
+          <script type="text/javascript" src="Randnm.js"></script>
+          <script type="text/javascript">
+               document.write("<br>")
+               document.write(randcode())
+               document.write("<br>")
+               document.write(randcode())
+               document.write("<br>")
+               var date = randate()
+               document.write(`day: ${date.day}, month: ${date.month}, year: ${date.year}`)
+               document.write("<br>")
+               var myname = randnm()
+               document.write(`name: ${myname.name}, surname: ${myname.surname}`)
+          </script>
+      </body>
+</html>
