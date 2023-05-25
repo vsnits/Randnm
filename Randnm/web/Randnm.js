@@ -1,4 +1,4 @@
-let set = `qwertyuiopasdfghjklzxcvbnm1234567890`
+let set = `qwertyuiopasdfghjklzxcvbnm`+`qwertyuiopasdfghjklzxcvbnm1234567890`
    function randlen() {
        return 8+Math.floor(Math.random()*4)
        }
