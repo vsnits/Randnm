@@ -1,8 +1,11 @@
 # Randnm
 Take random (real) name and date of birth
-# 
+
 ## Installing
 Download repo and unzip folder
+### requirements
+* python 3.9 or higher
+* numpy library
 ## Usage
 Open terminal > 
 Switch to the unzipped folder > 
@@ -29,4 +32,3 @@ Weaker version available as a [website](https://vsnits.github.io/Randnm/Randnm/w
 
 ## License
 GNU (free use)
-
