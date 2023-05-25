@@ -13,7 +13,7 @@ def randcode(mlen, rlen):
     while leng > 0:
         leng = leng-1
         res = res + randpos(set.data)
-    print("code: ", res)
+    print("nickname: ", res)
 def randate(minage, curyear):
     year = minage+randpos(range(0,minage))
     month = month = 1+randpos(range(0,12))
