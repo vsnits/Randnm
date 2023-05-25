@@ -26,3 +26,6 @@ For learning on surnames dataset (output 30k)
 Learning from bigger sets possible modifying the code
 ## Web version
 Weaker version avaible as a [website]()
+
+## Licence
+GNU (free use)
