@@ -1,5 +1,5 @@
 # Randnm
-Take random (real) name and born date of birth
+Take random (real) name and date of birth
 # 
 ## Installing
 Download repo and unzip folder
