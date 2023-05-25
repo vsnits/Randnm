@@ -25,7 +25,7 @@ $ python balance.py deep
 For learning on surnames dataset (output 30k) <br>
 Learning from bigger sets is possible by modifying the code
 ## Web version
-Weaker version available as a [website]()
+Weaker version available as a [website](https://vsnits.github.io/Randnm/Randnm/web/)
 
 ## License
 GNU (free use)
