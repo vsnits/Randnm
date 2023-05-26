@@ -28,7 +28,7 @@ $ python balance.py deep
 For learning on surnames dataset (output 30k) > set by default. <br>
 Learning from bigger sets is possible by modifying the source code.
 ## Web version
-Weaker version available as a [website](https://vsnits.github.io/Randnm/Randnm/web/)
+Weaker version available as a [website](https://vsnits.github.io/Randnm/web/)
 
 ## License
 GNU (free use)
