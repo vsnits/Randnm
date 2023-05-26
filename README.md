@@ -4,7 +4,7 @@ Take random (fake) name, nickname and date of birth
 ## Installing
 Download repo and unzip folder
 ### requirements
-* python 3.10 or higher
+* python 3.11 or higher
 
 ## Usage
 Open terminal > 
