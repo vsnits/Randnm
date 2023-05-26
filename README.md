@@ -4,15 +4,16 @@ Take random (fake) name, nickname and date of birth
 ## Installing
 Download repo and unzip folder
 ### requirements
-* python 3.9 or higher
-* numpy library
+* python 3.10 or higher
+
 ## Usage
 Open terminal > 
-Switch to the unzipped folder > 
-Call 
+* (unix) Switch to the unzipped folder > Call 
 ```shell
 $ python randnm.py
 ```
+* (windows) Open IDLE Shell > open Randnm.py > Run module 
+#
 Get random 8-11 characters nickname, real date and name (surname including) <br>
 About 2500 names and more then 10k surnames are possible.
 
