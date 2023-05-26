@@ -1,6 +1,6 @@
 import names
 import surnames
-import numpy
+import math
 import sys
 class weight:
     def __init__(self, weight, letter):
@@ -32,7 +32,7 @@ def balance():
     res = ""
     print("writing file (set.py)..")
     for x in weights:
-        res = res + x.letter*int(numpy.floor(x.weight/mn))
+        res = res + x.letter*int(math.floor(x.weight/mn))
     file = open("set.py", "w")
     file.write("data = '" + res + "'")
     print("Ready " + str(len(res)) + " characters.")

@@ -1,14 +1,14 @@
-import numpy
+import math
 import random
 import names
 import surnames
 import set
    
 def randpos(arr):
-    return arr[int(numpy.floor(random.random()*(len(arr)-1)))]
+    return arr[int(math.floor(random.random()*(len(arr)-1)))]
    
 def randcode(mlen, rlen):
-    leng = mlen + numpy.floor(random.random()*rlen)
+    leng = mlen + math.floor(random.random()*rlen)
     res = ""
     while leng > 0:
         leng = leng-1
