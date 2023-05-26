@@ -7,8 +7,7 @@ Download repo and unzip folder
 * python 3.11 or higher
 
 ## Usage
-Open terminal > 
-* (unix) Switch to the unzipped folder > Call 
+* (unix) Open terminal > Switch to the unzipped folder > Call 
 ```shell
 $ python randnm.py
 ```
